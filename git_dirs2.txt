@@ -1,0 +1,125 @@
+D:/Users/johnm/OneDrive/! old\!sports_betting\2019-09-15\sports betting 2\venv
+D:/Users/johnm/OneDrive/! old\!sports_betting\sports_betting\sports betting 2\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\! old\!sports_betting\2019-09-15\sports betting 2\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\!old\Lone Wolf\tugboat-converter\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\!old\Probe\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\!old\Probe (1)\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\Hive Stack\Hivestack\playground\.venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\Lone Wolf\tugboat-converter\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\Miko Software\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\Miko Software\trading firm\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\Old\Probe\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\Old\Probe (1)\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\upwork\jeffrey\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\upwork\nitin\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\misc\Work\Companies\upwork\wellnite\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\money\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\money\taxes\2021\code\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\Work\Companies\Old\Probe\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\Work\Companies\Old\Probe (1)\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\Work\Companies\upwork\jeffrey\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\Work\Companies\upwork\nitin\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\Work\Companies\upwork\wellnite\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\Work\hivestack\playground\.venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\Work\lone wolf\tugboat-converter\venv
+D:/Users/johnm/OneDrive/2023_05_13_upload\Work\Miko Software\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/code\php\deeded\.git
+D:/Users/johnm/OneDrive/code\portfolio_backend - Copy\.git
+D:/Users/johnm/OneDrive/code\python\! old\fb_apartment_finder\venv
+D:/Users/johnm/OneDrive/code\python\! old\finance-2020-06-21\.git
+D:/Users/johnm/OneDrive/code\python\! old\finance-2020-06-21\venv
+D:/Users/johnm/OneDrive/code\python\django\.git
+D:/Users/johnm/OneDrive/code\python\dota\venv
+D:/Users/johnm/OneDrive/code\python\finance-2020-06-21\venv
+D:/Users/johnm/OneDrive/code\python\job_autoapply\venv
+D:/Users/johnm/OneDrive/code\python\job_autoapply 2022-12-25\.git
+D:/Users/johnm/OneDrive/code\python\job_autoapply 2022-12-25\venv
+D:/Users/johnm/OneDrive/code\python\playground\venv
+D:/Users/johnm/OneDrive/code\python\webscrap_book\venv
+D:/Users/johnm/OneDrive/code\React\portfolio\.git
+D:/Users/johnm/OneDrive/code\sports_betting\venv
+D:/Users/johnm/OneDrive/code\vba\probe\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/Miko Software\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/misc\!old\misc\!sports_betting\2019-09-15\sports betting 2\venv
+D:/Users/johnm/OneDrive/misc\code\! misc\vba\probe\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/misc\code\developer\.git
+D:/Users/johnm/OneDrive/misc\code\finance\.git
+D:/Users/johnm/OneDrive/misc\code\python\! Courses\! Course - design_patterns\venv
+D:/Users/johnm/OneDrive/misc\code\python\! old\fb_apartment_finder\venv
+D:/Users/johnm/OneDrive/misc\code\python\! old\finance-2020-06-21\venv
+D:/Users/johnm/OneDrive/misc\code\python\! old\job_autoapply_2023_02_11\venv
+D:/Users/johnm/OneDrive/misc\code\python\! old\portfolia_backend_stuff\portfolio_backend1 - Copy\.git
+D:/Users/johnm/OneDrive/misc\code\python\! old\toptal\venv
+D:/Users/johnm/OneDrive/misc\code\python\dota\.git
+D:/Users/johnm/OneDrive/misc\code\python\job_autoapply\.git
+D:/Users/johnm/OneDrive/misc\code\python\job_autoapply\venv
+D:/Users/johnm/OneDrive/misc\code\python\job_homework_questions\.git
+D:/Users/johnm/OneDrive/misc\code\python\job_homework_questions\venv
+D:/Users/johnm/OneDrive/misc\code\python\job_homework_questions\jobs\app_backend_petshop\venv
+D:/Users/johnm/OneDrive/misc\code\python\manage_computer\.git
+D:/Users/johnm/OneDrive/misc\code\python\taxes\.git
+D:/Users/johnm/OneDrive/misc\code\python\webscrap_book\.git
+D:/Users/johnm/OneDrive/misc\code\python\webscrap_book\venv
+D:/Users/johnm/OneDrive/misc\code\sd_smartd_vfd_pytest\.git
+D:/Users/johnm/OneDrive/misc\code\sd_smartd_vfd_pytest\.venv
+D:/Users/johnm/OneDrive/misc\code\sports_betting\venv
+D:/Users/johnm/OneDrive/misc\sports_betting\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\!old\Lone Wolf\tugboat-converter\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\!old\Probe\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\!old\Probe (1)\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\Hive Stack\Hivestack\playground\.venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\Lone Wolf\tugboat-converter\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\Miko Software\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\Miko Software\trading firm\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\Old\Probe\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\Old\Probe (1)\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\upwork\jeffrey\.git
+D:/Users/johnm/OneDrive/misc\Work\Companies\upwork\jeffrey\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\upwork\nitin\.git
+D:/Users/johnm/OneDrive/misc\Work\Companies\upwork\nitin\venv
+D:/Users/johnm/OneDrive/misc\Work\Companies\upwork\wellnite\.git
+D:/Users/johnm/OneDrive/miscellaneous\code\!misc\vba\probe\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\finance\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\! Courses\! Course - design_patterns\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\! old\fb_apartment_finder\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\! old\finance-2020-06-21\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\dota\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\fb_apartment_finder\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\finance-2020-06-21\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\job_autoapply\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\playground\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\playground\jobs\!old\granify\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\playground\jobs\!old\metaculus\backend\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\toptal\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\python\webscrap_book\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\sports_betting\venv
+D:/Users/johnm/OneDrive/miscellaneous\code\vba\probe\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/miscellaneous\sports_betting\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\!old\Lone Wolf\tugboat-converter\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\!old\Probe\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\!old\Probe (1)\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\Lone Wolf\tugboat-converter\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\Old\Probe\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\Old\Probe (1)\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\upwork\jeffrey\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\upwork\nitin\venv
+D:/Users/johnm/OneDrive/miscellaneous\Work\Companies\upwork\wellnite\venv
+D:/Users/johnm/OneDrive/money\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/money\taxes\2021\code\venv
+D:/Users/johnm/OneDrive/money-Beemo\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/money-Beemo\taxes\2021\code\venv
+D:/Users/johnm/OneDrive/money_2023_02_11\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/money_2023_02_11\taxes\2021\code\venv
+D:/Users/johnm/OneDrive/Work\Companies\Old\Probe\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/Work\Companies\Old\Probe (1)\OTHER\CODE\update_FOMMs\venv
+D:/Users/johnm/OneDrive/Work\Companies\upwork\jeffrey\venv
+D:/Users/johnm/OneDrive/Work\Companies\upwork\nitin\venv
+D:/Users/johnm/OneDrive/Work\Companies\upwork\wellnite\venv
+D:/Users/johnm/OneDrive/Work\hivestack\playground\.venv
+D:/Users/johnm/OneDrive/Work\lone wolf\tugboat-converter\venv
+D:/Users/johnm/OneDrive/Work\Miko Software\taxes\2020\code\venv
+D:/Users/johnm/OneDrive/wrong code\python\! Courses\! Course - design_patterns\venv
+D:/Users/johnm/OneDrive/wrong code\python\finance-2020-06-21\venv
+D:/Users/johnm/OneDrive/wrong code\python\job_autoapply\venv
+D:/Users/johnm/OneDrive/wrong code\python\playground\venv
+D:/Users/johnm/OneDrive/wrong code\vba\probe\CODE\update_FOMMs\venv
